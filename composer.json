@@ -1,0 +1,15 @@
+{
+    "name": "mon-vendor/mon-package",
+    "description": "Un package PHP d'exemple",
+    "autoload": {
+        "psr-4": {
+            "MonVendor\\MonPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Val"
+        }
+    ],
+    "require": {}
+}
